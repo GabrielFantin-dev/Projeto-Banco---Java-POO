@@ -1,7 +1,13 @@
+import java.util.Scanner
+
 class Cadastro{
 
    private id;
    private senha;
+
+
+Scanner teclado = new Scanner;  
+
 
 public void setid() {
         this.id;
